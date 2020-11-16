@@ -1,0 +1,26 @@
+[
+  {
+    "name": "HTML",
+    "icon": "html5"
+  },
+  {
+    "name": "CSS",
+    "icon": "css3-alt"
+  },
+  {
+    "name": "JavaScript",
+    "icon": "js-square"
+  },
+  {
+    "name": "Adobe<br>Programs",
+    "icon": "adobe"
+  },
+  {
+    "name": "Node",
+    "icon": "node-js"
+  },
+  {
+    "name": "React",
+    "icon": "react"
+  }
+]

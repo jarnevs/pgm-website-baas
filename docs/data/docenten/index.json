@@ -1,0 +1,168 @@
+[
+  {
+    "firstName": "Luk",
+    "lastName": "Bouters",
+    "img": "/static/docenten/images/luk.png",
+    "mainFunction": "Opleidingsdirecteur",
+    "extraFunction": "",
+    "importantContact": false,
+    "isTeacher": false,
+    "courses": [],
+    "email": ""
+  },
+  {
+    "firstName": "Pieter",
+    "lastName": "Vandaele",
+    "img": "/static/docenten/images/pieter.png",
+    "mainFunction": "Opleidingscoördinator",
+    "extraFunction": "",
+    "importantContact": false,
+    "isTeacher": false,
+    "courses": [],
+    "email": ""
+    
+  },
+  {
+    "firstName": "Maaike",
+    "lastName": "Callens",
+    "img": "/static/docenten/images/maaike.png",
+    "mainFunction": "Trajectbeheer",
+    "extraFunction": "Verantwoordelijke opleiding",
+    "importantContact": true,
+    "isTeacher": false,
+    "courses": [],
+    "email": "maaike.callens@arteveldehs.be"
+  },
+  {
+    "firstName": "Gudrun",
+    "lastName": "Herman",
+    "img": "/static/docenten/images/gudrun.png",
+    "mainFunction": "STUVO- en Ombudsmedewerker",
+    "extraFunction": "",
+    "importantContact": false,
+    "isTeacher": false,
+    "courses": [],
+    "email": ""
+  },
+  {
+    "firstName": "Inge",
+    "lastName": "De Canck",
+    "img": "/static/docenten/images/inge-dc.png",
+    "mainFunction": "Leercoach",
+    "extraFunction": "Verantwoordelijke werkplekleren",
+    "importantContact": true,
+    "isTeacher": false,
+    "courses": [],
+    "email": "inge.decanck@arteveldehs.be"
+  },
+  {
+    "firstName": "Inge",
+    "lastName": "Sintobin",
+    "img": "/static/docenten/images/inge-s.png",
+    "mainFunction": "Leercoach",
+    "extraFunction": "",
+    "importantContact": false,
+    "isTeacher": false,
+    "courses": [],
+    "email": ""
+  },
+  {
+    "firstName": "Linda",
+    "lastName": "Bogaert",
+    "img": "/static/docenten/images/linda.png",
+    "mainFunction": "Leercoach",
+    "extraFunction": "",
+    "importantContact": false,
+    "isTeacher": false,
+    "courses": [],
+    "email": ""
+  },
+  {
+    "firstName": "Katrien",
+    "lastName": "Vandermarcke",
+    "img": "/static/docenten/images/katrien.png",
+    "mainFunction": "Leercoach",
+    "extraFunction": "Diversiteitscoach",
+    "importantContact": false,
+    "isTeacher": false,
+    "courses": [],
+    "email": ""
+  },
+  {
+    "firstName": "Philippe",
+    "lastName": "De Pauw - Waterschoot",
+    "img": "/static/docenten/images/philippe.png",
+    "mainFunction": "Docent",
+    "extraFunction": "Verantwoordelijke Werkplekleren",
+    "importantContact": true,
+    "isTeacher": true,
+    "courses": ["WEBPGM-1", "WEBPGM-3", "AT-WORK-1", "AT-WORK-2"],
+    "email": "philippe.depauw@arteveldehs.be"
+  },
+  {
+    "firstName": "Olivier",
+    "lastName": "Parent",
+    "img": "/static/docenten/images/olivier.jpg",
+    "mainFunction": "Docent",
+    "extraFunction": "Verantwoordelijke curriculum",
+    "importantContact": true,
+    "isTeacher": true,
+    "courses": ["AIT", "UI/UX-2"],
+    "email": "olivier.parent@arteveldehs.be"
+  },
+  {
+    "firstName": "Evelien",
+    "lastName": "Rutsaert",
+    "img": "/static/docenten/images/evelien.png",
+    "mainFunction": "Docent",
+    "extraFunction": "",
+    "importantContact": false,
+    "isTeacher": true,
+    "courses": ["WEBDESIGN"],
+    "email": ""
+  },
+  {
+    "firstName": "Frederick",
+    "lastName": "Roegiers",
+    "img": "/static/docenten/images/frederick.png",
+    "mainFunction": "Docent",
+    "extraFunction": "",
+    "importantContact": false,
+    "isTeacher": true,
+    "courses": ["WEBPGM-2"],
+    "email": ""
+  },
+  {
+    "firstName": "Dieter",
+    "lastName": "De Weirdt",
+    "img": "/static/docenten/images/dieter.png",
+    "mainFunction": "Docent",
+    "extraFunction": "",
+    "importantContact": false,
+    "isTeacher": true,
+    "courses": ["UI/UX-1"],
+    "email": ""
+  },
+  {
+    "firstName": "Lennart",
+    "lastName": "Dubois",
+    "img": "/static/docenten/images/lennart.png",
+    "mainFunction": "Docent",
+    "extraFunction": "",
+    "importantContact": false,
+    "isTeacher": true,
+    "courses": ["BUSICOM", "AT-WORK-2"],
+    "email": ""
+  },
+  {
+    "firstName": "Claire",
+    "lastName": "Geeraerts",
+    "img": "/static/docenten/images/claire.png",
+    "mainFunction": "Docent",
+    "extraFunction": "",
+    "importantContact": false,
+    "isTeacher": true,
+    "courses": ["BUSICOM"],
+    "email": ""
+  }
+]

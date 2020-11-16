@@ -1,0 +1,421 @@
+[
+  {
+    "id": "6f7f4613-a39a-4e1a-a9e8-0609ddb1ef3d",
+    "title": "Arne Quinze",
+    "description": "De opdracht luidde om de website van Arne Quinze na te maken. Dit was eveneens onze eerste case voor @work1",
+    "thumbnail": "/static/cases/images/arne-quinze/home.png",
+    "course": "@work 1",
+    "students": [
+      "Jarne Van Steendam"
+    ],
+    "media": [
+      {
+        "path": "/static/cases/images/arne-quinze/home.png",
+        "alt": "Home page screenshot",
+        "type": "image"
+      },
+      {
+        "path": "/static/cases/images/arne-quinze/art.png",
+        "alt": "Art & Exhibitions page screenshot",
+        "type": "image"
+      },
+      {
+        "path": "/static/cases/images/arne-quinze/calatrava.png",
+        "alt": "Calatrava detail page screenshot",
+        "type": "image"
+      },
+      {
+        "path": "/static/cases/images/arne-quinze/biography.png",
+        "alt": "Biography page screenshot",
+        "type": "image"
+      },
+      {
+        "path": "/static/cases/images/arne-quinze/atelier.png",
+        "alt": "Atelier page screenshot",
+        "type": "image"
+      },
+      {
+        "path": "/static/cases/images/arne-quinze/visiting-mons.png",
+        "alt": "Visiting mons detail page screenshot",
+        "type": "image"
+      },
+      {
+        "path": "/static/cases/images/arne-quinze/press.png",
+        "alt": "Press page screenshot",
+        "type": "image"
+      },
+      {
+        "path": "/static/cases/images/arne-quinze/garden.png",
+        "alt": "Garden detail screenshot",
+        "type": "image"
+      },
+      {
+        "path": "/static/cases/images/arne-quinze/contact.png",
+        "alt": "Contact page screenshot",
+        "type": "image"
+      }
+    ]
+  },
+  {
+    "id": "773bf264-8f49-4ddc-8771-8ee70224d2c7",
+    "title": "Matthias Talloen",
+    "description": "Bij case 2 van @work1 moesten we een andere website namaken, namelijk die van Matthias Talloen",
+    "thumbnail": "/static/cases/images/matthias-talloen/home.png",
+    "course": "@work 1",
+    "students": [
+      "Jarne Van Steendam",
+      "Lennert De Ryck"
+    ],
+    "media": [
+      {
+        "path": "/static/cases/images/matthias-talloen/home.png",
+        "alt": "Home page screenshot",
+        "type": "image"
+      },
+      {
+        "path": "/static/cases/images/matthias-talloen/te-koop.png",
+        "alt": "Te koop page screenshot",
+        "type": "image"
+      },
+      {
+        "path": "/static/cases/images/matthias-talloen/te-koop-filter.png",
+        "alt": "Te koop page filter screenshot",
+        "type": "image"
+      },
+      {
+        "path": "/static/cases/images/matthias-talloen/detail.png",
+        "alt": "Detail te koop page screenshot",
+        "type": "image"
+      },
+      {
+        "path": "/static/cases/images/matthias-talloen/detail-2.png",
+        "alt": "Detail te koop page screenshot 2",
+        "type": "image"
+      },
+      {
+        "path": "/static/cases/images/matthias-talloen/contact.png",
+        "alt": "Contact page",
+        "type": "image"
+      }
+    ]
+  },
+  {
+    "id": "a9a3fdb7-bec0-457e-b42d-0d6f71a7a908",
+    "title": "Establis",
+    "description": "Dit was onze laatste case voor @work1 waarbij we terug een site moesten namaken. De volledige site kan je hier bekijken: <a href=\"https://pgmgent-1920-students.github.io/case-3-establis-pgmgent-jarnvans/\" target=\"_blank\">Establis</a>",
+    "thumbnail": "/static/cases/images/establis/home.png",
+    "course": "@work 1",
+    "students": [
+      "Jarne Van Steendam"
+    ],
+    "media": [
+      {
+        "path": "/static/cases/images/establis/home.png",
+        "alt": "Home page screenshot",
+        "type": "image"
+      },
+      {
+        "path": "/static/cases/images/establis/over-ons.png",
+        "alt": "Over ons page screenshot",
+        "type": "image"
+      },
+      {
+        "path": "/static/cases/images/establis/team.png",
+        "alt": "Team page screenshot",
+        "type": "image"
+      },
+      {
+        "path": "/static/cases/images/establis/projecten.png",
+        "alt": "Projecten page screenshot",
+        "type": "image"
+      },
+      {
+        "path": "/static/cases/images/establis/project-detail.png",
+        "alt": "Project detail page screenshot",
+        "type": "image"
+      },
+      {
+        "path": "/static/cases/images/establis/redenen.png",
+        "alt": "Werken bij ons page screenshot",
+        "type": "image"
+      },
+      {
+        "path": "/static/cases/images/establis/nieuws.png",
+        "alt": "Over ons page screenshot",
+        "type": "image"
+      },
+      {
+        "path": "/static/cases/images/establis/nieuws-detail.png",
+        "alt": "Nieuws detail page screenshot",
+        "type": "image"
+      },
+      {
+        "path": "/static/cases/images/establis/contact.png",
+        "alt": "Contact page screenshot",
+        "type": "image"
+      },
+      {
+        "path": "/static/cases/images/establis/menu.png",
+        "alt": "Menu page screenshot",
+        "type": "image"
+      }
+    ]
+  },
+  {
+    "id": "bb739484-6fef-43ce-a97c-c0cae19e632a",
+    "title": "Foodsie",
+    "description": "De eerste week van het 2de semester was het bootcamp. Het probleem waar we een oplossing moesten voor vinden: hoe maken we een stad groener. Wij zijn toen met het idee gekomen om een app te maken om voedsel te delen met de buurt. Je kan hierbij eten aanbieden en ook zelf eten reserveren op een makkelijke manier. Afspreken om het op te halen en je kan genieten van je eten.",
+    "thumbnail": "/static/cases/images/foodsie/home.png",
+    "course": "UI/UX Prototyping 2",
+    "students": [
+      "Jarne Van Steendam",
+      "Elien Maes"
+    ],
+    "media": [
+      {
+        "path": "/static/cases/images/foodsie/home.png",
+        "alt": "Home page",
+        "type": "image"
+      },
+      {
+        "path": "/static/cases/images/foodsie/zoeken.png",
+        "alt": "Design zoeken page",
+        "type": "image"
+      },
+      {
+        "path": "/static/cases/images/foodsie/detail.png",
+        "alt": "Design detail zoeken page",
+        "type": "image"
+      },
+      {
+        "path": "/static/cases/images/foodsie/profiel.png",
+        "alt": "Design profiel page",
+        "type": "image"
+      }
+    ]
+  },
+  {
+    "id": "51ef70fb-329a-4daa-8bd1-3ee4036bd655",
+    "title": "Crowdfunding",
+    "description": "Bij deze opdracht moesten we een crowdfunding site maken voor het product dat we gemaakt hadden tijdens de bootcamp. Hier moest ook een 3D model bij.",
+    "thumbnail": "/static/cases/images/crowdfunding/home.png",
+    "course": "UI/UX Prototyping 2",
+    "students": [
+      "Jarne Van Steendam"
+    ],
+    "media": [
+      {
+        "path": "/static/cases/images/crowdfunding/home.png",
+        "alt": "Home part",
+        "type": "image"
+      },
+      {
+        "path": "/static/cases/images/crowdfunding/model.png",
+        "alt": "Model part",
+        "type": "image"
+      },
+      {
+        "path": "/static/cases/images/crowdfunding/steps.png",
+        "alt": "Steps part",
+        "type": "image"
+      },
+      {
+        "path": "/static/cases/images/crowdfunding/team.png",
+        "alt": "Team part",
+        "type": "image"
+      },
+      {
+        "path": "/static/cases/images/crowdfunding/iphone.glb",
+        "alt": "",
+        "type": "model"
+      }
+    ]
+  },
+  {
+    "id": "8385ac4f-e1c6-4b93-b929-367b08a94ee2",
+    "title": "CV",
+    "description": "Bij deze opdracht moesten we eerst onze CV designen in AdobeXD. We hebben deze dan ook moeten omzetten in een website met html en css.",
+    "thumbnail": "/static/cases/images/cv/home.png",
+    "course": "UI/UX Prototyping 1",
+    "students": [
+      "Jarne Van Steendam"
+    ],
+    "media": [
+      {
+        "path": "/static/cases/images/cv/home.png",
+        "alt": "Home",
+        "type": "image"
+      },
+      {
+        "path": "/static/cases/images/cv/cv-design.jpg",
+        "alt": "Design CV",
+        "type": "image"
+      },
+      {
+        "path": "/static/cases/images/cv/studies.png",
+        "alt": "Studies CV part",
+        "type": "image"
+      },
+      {
+        "path": "/static/cases/images/cv/skills.png",
+        "alt": "Skills CV part",
+        "type": "image"
+      },
+      {
+        "path": "/static/cases/images/cv/contact.png",
+        "alt": "Contact CV part",
+        "type": "image"
+      }
+    ]
+  },
+  {
+    "id": "fd9135d9-f89d-4b87-86c1-ce1c5f244f2f",
+    "title": "Webshop",
+    "description": "We moesten een webshop maken over een product naar keuze. Hier moesten we enkel het design maken met AdobeXD.",
+    "thumbnail": "/static/cases/images/webshop/home.png",
+    "course": "UI/UX Prototyping 1",
+    "students": [
+      "Jarne Van Steendam"
+    ],
+    "media": [
+      {
+        "path": "/static/cases/images/webshop/home.png",
+        "alt": "Home desktop",
+        "type": "image"
+      },
+      {
+        "path": "/static/cases/images/webshop/products-desktop.png",
+        "alt": "Design products desktop",
+        "type": "image"
+      },
+      {
+        "path": "/static/cases/images/webshop/detail-desktop.png",
+        "alt": "Design products detail desktop",
+        "type": "image"
+      },
+      {
+        "path": "/static/cases/images/webshop/products.png",
+        "alt": "Design products mobile",
+        "type": "image"
+      },
+      {
+        "path": "/static/cases/images/webshop/detail-product.png",
+        "alt": "Design products detail mobile",
+        "type": "image"
+      },
+      {
+        "path": "/static/cases/images/webshop/menu.png",
+        "alt": "Design menu mobile",
+        "type": "image"
+      },
+      {
+        "path": "/static/cases/images/webshop/filter.png",
+        "alt": "Design products filter mobile",
+        "type": "image"
+      }
+    ]
+  },
+  {
+    "id": "f8cf4397-f812-414e-9871-050dc8801d5b",
+    "title": "Portfolio",
+    "description": "We moesten hier een portfolio maken van cases. Dit met behulp van html, css en javascript.",
+    "thumbnail": "/static/cases/images/portfolio/home.png",
+    "course": "Web Programming 1",
+    "students": [
+      "Jarne Van Steendam"
+    ],
+    "media": [
+      {
+        "path": "/static/cases/images/portfolio/home.png",
+        "alt": "Home",
+        "type": "image"
+      },
+      {
+        "path": "/static/cases/images/portfolio/detail.png",
+        "alt": "Detail case",
+        "type": "image"
+      }
+    ]
+  },
+  {
+    "id": "f9545a59-7c05-4e4a-afe5-62e2f6ff2c2b",
+    "title": "Quiz",
+    "description": "We moesteen quiz app maken met multiple choice vragen. Je moest ook de categorie en moeilijkheid kunnen veranderen. De vragen kregen we door middel van een API.",
+    "thumbnail": "/static/cases/images/quiz/quiz.png",
+    "course": "Web Programming 2",
+    "students": [
+      "Jarne Van Steendam"
+    ],
+    "media": [
+      {
+        "path": "/static/cases/images/quiz/quiz.png",
+        "alt": "Quiz page",
+        "type": "image"
+      },
+      {
+        "path": "/static/cases/images/quiz/quiz-select.png",
+        "alt": "Quiz selected answer page",
+        "type": "image"
+      },
+      {
+        "path": "/static/cases/images/quiz/preferences.png",
+        "alt": "Quiz preferences page",
+        "type": "image"
+      },
+      {
+        "path": "/static/cases/images/quiz/topscore.png",
+        "alt": "Quiz topscore page",
+        "type": "image"
+      }
+    ]
+  },
+  {
+    "id": "3a5a22a7-fb98-40f2-8e66-a00ab935dc1c",
+    "title": "Super Villain",
+    "description": "We moesten met behulp van html en css een vacature maken voor een super villain.",
+    "thumbnail": "/static/cases/images/vacature/vacature-1.png",
+    "course": "Webdesign",
+    "students": [
+      "Jarne Van Steendam"
+    ],
+    "media": [
+      {
+        "path": "/static/cases/images/vacature/vacature-1.png",
+        "alt": "First part vacature page",
+        "type": "image"
+      },
+      {
+        "path": "/static/cases/images/vacature/vacature-2.png",
+        "alt": "Second part vacature page",
+        "type": "image"
+      },
+      {
+        "path": "/static/cases/images/vacature/apply.png",
+        "alt": "Apply page",
+        "type": "image"
+      }
+    ]
+  },
+  {
+    "id": "771784c7-1262-4722-88e8-1c49b87b7b14",
+    "title": "Thriven",
+    "description": "Bij deze opdracht moesten we weer met behulp van html en css pagina's namaken, we kregen hiervoor ook screenshots van de pagina's.",
+    "thumbnail": "/static/cases/images/thriven/home.png",
+    "course": "Webdesign",
+    "students": [
+      "Jarne Van Steendam"
+    ],
+    "media": [
+      {
+        "path": "/static/cases/images/thriven/home.png",
+        "alt": "Home page",
+        "type": "image"
+      },
+      {
+        "path": "/static/cases/images/thriven/pricing.png",
+        "alt": "Pricing page",
+        "type": "image"
+      }
+    ]
+  }
+]
